@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [CIVOBOT](https://github.com/kyrylomalyi82/civobot)
 
-- 🌱 I’m currently learning **spring framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
